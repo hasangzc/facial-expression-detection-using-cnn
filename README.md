@@ -1,7 +1,7 @@
 # facial-expression-detection-using-cnn
 facial-expression-detection-using-cnn (FER2013 Data) 
 
-For this study  I am going to build a CNN for facial expression recognition on fer2013 dataset,
+For this study  I build a CNN for facial expression recognition on fer2013 dataset,
 
 Fer2013
 
