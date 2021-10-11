@@ -1,10 +1,11 @@
 # facial-expression-detection-using-cnn
 facial-expression-detection-using-cnn (FER2013 Data) 
 
+For this study  I am going to build a CNN for facial expression recognition on fer2013 dataset,
+
 Fer2013
 
 ![inqSerdiagram](https://user-images.githubusercontent.com/48207530/133936851-49531e38-e861-4116-9b36-032baa819a36.png)
-
 
 
 Fer2013 used to use Challenges in Representation Learning: Facial Expression Recognition Challenge in Kaggle.
